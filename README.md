@@ -44,16 +44,6 @@ Local: Sala 2019 - CAD3
       Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani <br>
      **Apenas em inglês. Aberto!**
 
-## Mais material
-
-- [Curso CMU](http://www.datasciencecourse.org/lectures/)
-- [Livro Aberto Jake Van Der Plas](https://github.com/jakevdp/PythonDataScienceHandbook)
-- [Curso UFCG](https://github.com/nazareno/ciencia-de-dados-1)
-- [Curso NYU](https://github.com/briandalessandro/DataScienceCourse)
-- [data 8 - Curso Caltech/Berkley](http://data8.org/)
-- [Formato do the straigh dope](https://github.com/zackchase/mxnet-the-straight-dope)
-- http://ruder.io/optimizing-gradient-descent/index.html
-
 [Slides]: https://drive.google.com/drive/folders/1ZIwHz7U8vKAgjvHwkL_R1hZlE_4dsmah?usp=sharing
 [Calendário]: https://docs.google.com/spreadsheets/d/1bS3vOooAlst9Z91ve2lo2YUKl9FqDQrKaXu0LzoUYe4/edit?usp=sharing
 [Informes]: #informes
