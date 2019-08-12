@@ -1,0 +1,58 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/flaviovdf/workspace/icd-ufmg/2019.1/aulas/11-Hipoteses
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8889/?token=eeffca152e2df613c3d510ab0a8f7e8feb6a7666b710b6e9
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/1000/jupyter/nbserver-31486-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=eeffca152e2df613c3d510ab0a8f7e8feb6a7666b710b6e9
+[NotebookApp | WARNING] Notebook 10 - AB.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 13c830dd-550d-41d0-b7b9-88af012d9c59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 13c830dd-550d-41d0-b7b9-88af012d9c59
+[NotebookApp | INFO] Saving file at /11 - Hipoteses.ipynb
+[NotebookApp | WARNING] Notebook 11 - Hipoteses.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /11 - Hipoteses.ipynb
+[NotebookApp | INFO] Saving file at /11 - Hipoteses.ipynb
+[NotebookApp | INFO] Saving file at /11 - Hipoteses.ipynb
+[NotebookApp | INFO] Saving file at /11 - Hipoteses.ipynb
+[NotebookApp | INFO] Saving file at /11 - Hipoteses.ipynb
+[NotebookApp | INFO] Starting buffering for 13c830dd-550d-41d0-b7b9-88af012d9c59:773fa345e7fd4402a989a62fde1d6f9c
+[NotebookApp | INFO] Kernel restarted: 13c830dd-550d-41d0-b7b9-88af012d9c59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 13c830dd-550d-41d0-b7b9-88af012d9c59
+[NotebookApp | INFO] Restoring connection for 13c830dd-550d-41d0-b7b9-88af012d9c59:773fa345e7fd4402a989a62fde1d6f9c
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /11 - Hipoteses.ipynb
+[NotebookApp | INFO] Saving file at /11 - Hipoteses.ipynb
+[NotebookApp | INFO] Saving file at /11 - Hipoteses.ipynb
+[NotebookApp | INFO] Starting buffering for 13c830dd-550d-41d0-b7b9-88af012d9c59:773fa345e7fd4402a989a62fde1d6f9c
+[NotebookApp | INFO] Kernel restarted: 13c830dd-550d-41d0-b7b9-88af012d9c59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 13c830dd-550d-41d0-b7b9-88af012d9c59
+[NotebookApp | INFO] Restoring connection for 13c830dd-550d-41d0-b7b9-88af012d9c59:773fa345e7fd4402a989a62fde1d6f9c
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /11 - Hipoteses.ipynb
+[NotebookApp | INFO] Saving file at /11 - Hipoteses.ipynb
+[NotebookApp | INFO] Saving file at /11 - Hipoteses.ipynb
+[NotebookApp | INFO] Starting buffering for 13c830dd-550d-41d0-b7b9-88af012d9c59:773fa345e7fd4402a989a62fde1d6f9c
+[NotebookApp | INFO] Kernel restarted: 13c830dd-550d-41d0-b7b9-88af012d9c59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 13c830dd-550d-41d0-b7b9-88af012d9c59
+[NotebookApp | INFO] Restoring connection for 13c830dd-550d-41d0-b7b9-88af012d9c59:773fa345e7fd4402a989a62fde1d6f9c
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /11 - Hipoteses.ipynb
+[NotebookApp | INFO] Saving file at /11 - Hipoteses.ipynb
+[NotebookApp | INFO] Saving file at /11 - Hipoteses.ipynb
+[NotebookApp | INFO] Saving file at /11 - Hipoteses.ipynb
+[NotebookApp | INFO] Starting buffering for 13c830dd-550d-41d0-b7b9-88af012d9c59:773fa345e7fd4402a989a62fde1d6f9c
+[NotebookApp | INFO] Kernel restarted: 13c830dd-550d-41d0-b7b9-88af012d9c59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 13c830dd-550d-41d0-b7b9-88af012d9c59
+[NotebookApp | INFO] Restoring connection for 13c830dd-550d-41d0-b7b9-88af012d9c59:773fa345e7fd4402a989a62fde1d6f9c
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /11 - Hipoteses.ipynb
+[NotebookApp | INFO] Saving file at /11 - Hipoteses.ipynb
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 13c830dd-550d-41d0-b7b9-88af012d9c59
