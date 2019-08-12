@@ -1,5 +1,5 @@
-| [Slides] | [Calendário] | [Informes] | [Exemplos] | [Listas] | [Bibliografia] |
-|----------|--------------|------------|------------|----------|----------------|
+| [Slides] | [Material] | [Calendário] | [Informes] | [Listas] | [Bibliografia] |
+|----------|------------|--------------|------------|----------|----------------|
 - - -
 
 # DCC212: Introdução à Ciência de Dados
@@ -7,14 +7,27 @@
 Professores: Flavio Figueiredo
 
 Aulas: 14:55-16:35.
-Local: Auditório 1A - CAD1
+Local: Sala 2019 - CAD3
 
 ## Informes
 
-* Aulas iniciam no dia 25/02/2019. Verifiquem a sala no site do ICEX.
+* Aulas iniciam no dia 12/08/2019. Verifiquem a sala no site do ICEX.
+
+## Material
+
+### Primeira Parte: Análise Exploratória de Dados
+
+1. [Apresentação do Curso](./01-Apresentacao/Aula01-Apresentacao.ipynb)
+1. ...
+1. ...
 
 ## Bibliografia
 
+
+  1. [Computational and Inferential Thinking: The Foundations of Data Science](http://www.inferentialthinking.com/) <br>
+     Ani Adhikari and John DeNero <br>
+     **Apenas em inglês. Aberto!**
+     
   1. [Computational and Inferential Thinking: The Foundations of Data Science](http://www.inferentialthinking.com/) <br>
      Ani Adhikari and John DeNero <br>
      **Apenas em inglês. Aberto!**
@@ -46,4 +59,5 @@ Local: Auditório 1A - CAD1
 [Informes]: #informes
 [TPs]: #tps
 [Bibliografia]: #bibliografia
+[Material]: #material
 [Exemplos]: ./aulas/
