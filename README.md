@@ -7,7 +7,7 @@
 Professores: Flavio Figueiredo
 
 Aulas: 14:55-16:35.
-Local: Sala 2019 - CAD3
+Local: Sala 209 - CAD3
 
 ## Informes
 
