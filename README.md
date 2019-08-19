@@ -18,8 +18,8 @@ Local: Sala 2019 - CAD3
 ### Primeira Parte: Análise Exploratória de Dados
 
 1. [Apresentação do Curso](./01-Apresentacao/Aula01-Apresentacao.ipynb)
-1. ...
-1. ...
+1. [Causa e Efeito (Tratamento, Controle)](./02-Causa-e-Efeito/README.md)
+1. [Tabelas e Tipos de Dados](./03-Tabelas-e-Tipos-de-Dados/Aula03-Tabelas.ipynb)
 
 ## Bibliografia
 
