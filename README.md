@@ -12,7 +12,7 @@ Local: Sala 209 - CAD3
 ## Informes
 
 * Aulas iniciam no dia 12/08/2019. Verifiquem a sala no site do ICEX.
-* Link [Moodle](https://virtual.ufmg.br/20192/course/view.php?id=12655)
+* Link [Moodle](https://virtual.ufmg.br/20192/course/view.php?id=12698)
 
 ## Material
 
