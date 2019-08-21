@@ -46,7 +46,7 @@ Local: Sala 209 - CAD3
      **Apenas em inglês. Aberto!**
 
 [Slides]: https://drive.google.com/drive/folders/1ZIwHz7U8vKAgjvHwkL_R1hZlE_4dsmah?usp=sharing
-[Calendário]: https://docs.google.com/spreadsheets/d/1bS3vOooAlst9Z91ve2lo2YUKl9FqDQrKaXu0LzoUYe4/edit?usp=sharing
+[Calendário]: https://docs.google.com/spreadsheets/d/1G46MEMqWo8aM0B_8Ckx0OTZpRgZufIcm_9aYsYFBJZ4/edit?usp=sharing
 [Informes]: #informes
 [TPs]: #tps
 [Bibliografia]: #bibliografia
