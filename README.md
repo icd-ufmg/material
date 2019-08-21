@@ -7,19 +7,20 @@
 Professores: Flavio Figueiredo
 
 Aulas: 14:55-16:35.
-Local: Sala 2019 - CAD3
+Local: Sala 209 - CAD3
 
 ## Informes
 
 * Aulas iniciam no dia 12/08/2019. Verifiquem a sala no site do ICEX.
+* Link [Moodle](https://virtual.ufmg.br/20192/course/view.php?id=12698)
 
 ## Material
 
 ### Primeira Parte: Análise Exploratória de Dados
 
-1. [Apresentação do Curso](./01-Apresentacao/Aula01-Apresentacao.ipynb)
-1. ...
-1. ...
+1. [Apresentação do Curso](https://github.com/icd-ufmg/2019.2/blob/master/aulas/01-Apresentacao/Aula01-Apresentacao.ipynb)
+1. [Causa e Efeito (Tratamento, Controle)](https://github.com/icd-ufmg/2019.2/blob/master/aulas/02-Causa-e-Efeito/README.md)
+1. [Tabelas e Tipos de Dados](https://github.com/icd-ufmg/2019.2/blob/master/aulas/03-Tabelas-e-Tipos-de-Dados/Aula03-Tabelas.ipynb)
 
 ## Bibliografia
 
