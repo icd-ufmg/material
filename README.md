@@ -21,8 +21,8 @@ Local: Sala 209 - CAD3
 1. [Apresentação do Curso](https://github.com/icd-ufmg/2019.2/blob/master/aulas/01-Apresentacao/Aula01-Apresentacao.ipynb)
 1. [Causa e Efeito (Tratamento, Controle)](https://github.com/icd-ufmg/2019.2/blob/master/aulas/02-Causa-e-Efeito/README.md)
 1. [Tabelas e Tipos de Dados](https://github.com/icd-ufmg/2019.2/blob/master/aulas/03-Tabelas-e-Tipos-de-Dados/Aula03-Tabelas.ipynb)
-1. [Visualização de Dados]()
-   * Sugiro também uma leitura do Capítulo 6.4, 6.5 e 6.6 do [Data100](https://www.textbook.ds100.org/). São novos e não foi possível adaptar para a aula. Material simples com princípios bem interessantes.
+1. [Visualização de Dados](https://github.com/icd-ufmg/2019.2/blob/master/aulas/04-EDA-e-Vis/04-EDA-e-Vis.ipynb)
+   * Sugiro também uma leitura do Capítulos 6.4, 6.5 e 6.6 do [Data100](https://www.textbook.ds100.org/). São novos e não foi possível adaptar para a aula. Material simples com princípios bem interessantes.
 
 ## Bibliografia
 
