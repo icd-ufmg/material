@@ -23,6 +23,11 @@ Local: Sala 209 - CAD3
 1. [Tabelas e Tipos de Dados](https://github.com/icd-ufmg/2019.2/blob/master/aulas/03-Tabelas-e-Tipos-de-Dados/Aula03-Tabelas.ipynb)
 1. [Visualização de Dados](https://github.com/icd-ufmg/2019.2/blob/master/aulas/04-EDA-e-Vis/04-EDA-e-Vis.ipynb)
    * Sugiro também uma leitura do Capítulos 6.4, 6.5 e 6.6 do [Data100](https://www.textbook.ds100.org/). São novos e não foi possível adaptar para a aula. Material simples com princípios bem interessantes.
+1. [Tendências Centrais](https://github.com/icd-ufmg/2019.2/blob/master/aulas/05-Tendencias-Centrais/06-Tendencias-Centrais.ipynb)
+1. [Probabilidade](https://github.com/icd-ufmg/2019.2/blob/master/aulas/06-Probabilidade/Aula05%20-%20Probabilidade.ipynb)
+1. [Risco e Verossimilhança](TODO)
+
+### Segunda Parte: Testes de Hipótese
 
 ## Bibliografia
 
