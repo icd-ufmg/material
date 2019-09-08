@@ -5,6 +5,7 @@
 # DCC212: Introdução à Ciência dos Dados
 
 Professores: Flavio Figueiredo
+Departamento: Departamento de Ciência da Computação (DCC) - UFMG
 
 Aulas: 14:55-16:35.
 Local: Sala 209 - CAD3
