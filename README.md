@@ -34,7 +34,7 @@ Local: Sala 209 - CAD3
 1. [Risco e Variância de Estimador](https://github.com/icd-ufmg/2019.2/blob/master/aulas/07-Risco/Aula07%20-%20Risco.ipynb)
 1. [Intervalos de Confiança](https://github.com/icd-ufmg/2019.2/blob/master/aulas/09-ICs/09%20-%20Bootstrap.ipynb)
 1. [Comparando Médias - Testes A/B](https://github.com/icd-ufmg/2019.2/blob/master/aulas/10-AB/10%20-%20AB.ipynb)
-1. [Testes de Hipóteses (1) -- Intuição](https://github.com/icd-ufmg/2019.2/blob/master/aulas/11-Hipoteses/11%20-%20Hipoteses.ipynb)
+1. [Testes de Hipóteses](https://github.com/icd-ufmg/2019.2/blob/master/aulas/11-Hipoteses/11%20-%20Hipoteses.ipynb)
 1. [Replicação e Método Científico](TODO)
 1. [Poder de Testes](TODO)
 
