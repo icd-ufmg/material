@@ -28,11 +28,15 @@ Local: Sala 209 - CAD3
    * Sugiro também uma leitura do Capítulos 6.4, 6.5 e 6.6 do [Data100](https://www.textbook.ds100.org/). São novos e não foi possível adaptar para a aula. Material simples com princípios bem interessantes.
 1. [Tendências Centrais](https://github.com/icd-ufmg/2019.2/blob/master/aulas/05-Tendencias-Centrais/Aula05-Tendencias-Centrais.ipynb)
 1. [Probabilidade](https://github.com/icd-ufmg/2019.2/blob/master/aulas/06-Probabilidade/Aula06%20-%20Probabilidade.ipynb)
-1. [Risco e Verossimilhança](https://github.com/icd-ufmg/2019.2/blob/master/aulas/07-Risco/Aula07%20-%20Risco.ipynb)
 
 ### Segunda Parte: Testes de Hipótese
 
-1. TODO
+1. [Risco e Variância de Estimador](https://github.com/icd-ufmg/2019.2/blob/master/aulas/07-Risco/Aula07%20-%20Risco.ipynb)
+1. [Intervalos de Confiança](https://github.com/icd-ufmg/2019.2/blob/master/aulas/09-ICs/09%20-%20Bootstrap.ipynb)
+1. [Comparando Médias - Testes A/B](https://github.com/icd-ufmg/2019.2/blob/master/aulas/10-AB/10%20-%20AB.ipynb)
+1. [Testes de Hipóteses (1) -- Intuição](https://github.com/icd-ufmg/2019.2/blob/master/aulas/11-Hipoteses/11%20-%20Hipoteses.ipynb)
+1. [Replicação e Método Científico](TODO)
+1. [Poder de Testes](TODO)
 
 ## Bibliografia
 
