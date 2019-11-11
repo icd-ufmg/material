@@ -52,7 +52,7 @@ Local: Sala 209 - CAD3
 1. Fim Regularização
 1. KNN
 1. Logística
-1. Árvores e Florestas
+1. Previsão na Prática e Florestas (se houver tempo)
 1. SVD e K-Means
 
 ## Bibliografia
