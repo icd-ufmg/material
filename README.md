@@ -35,8 +35,25 @@ Local: Sala 209 - CAD3
 1. [Intervalos de Confiança](https://github.com/icd-ufmg/2019.2/blob/master/aulas/09-ICs/09%20-%20Bootstrap.ipynb)
 1. [Comparando Médias - Testes A/B](https://github.com/icd-ufmg/2019.2/blob/master/aulas/10-AB/10%20-%20AB.ipynb)
 1. [Testes de Hipóteses](https://github.com/icd-ufmg/2019.2/blob/master/aulas/11-Hipoteses/11%20-%20Hipoteses.ipynb)
-1. [Replicação e Método Científico](TODO)
-1. [Poder de Testes](TODO)
+1. [Poder de Testes](https://github.com/icd-ufmg/2019.2/blob/master/aulas/12-Poder/12%20-%20Poder.ipynb)
+1. [Replicação e Método Científico](https://github.com/icd-ufmg/2019.2/blob/master/aulas/13-CausalidadeRCT/13%20-%20Causalidade.ipynb)
+
+### Terceira Parte: Correlação e Regressão 
+
+1. [Correlação](https://github.com/icd-ufmg/2019.2/blob/master/aulas/15-Correlacao/15%20-%20Correlacao.ipynb)
+1. [Regressão Linear](https://github.com/icd-ufmg/2019.2/blob/master/aulas/16-RegressaoLinear/16%20-%20Regressao%20Linear.ipynb)
+1. [Verossimilhançca](https://github.com/icd-ufmg/2019.2/blob/master/aulas/17-Verossimilhanca/17%20-%20Verossimilhanca.ipynb)
+1. [Gradiente Descendente](https://github.com/icd-ufmg/2019.2/blob/master/aulas/18-GradienteDescendente/18%20-%20Gradiente.ipynb)
+1. [Regressão Múltipla](https://github.com/icd-ufmg/2019.2/blob/master/aulas/19-Multipla/19%20-%20Multipla.ipynb)
+1. [Treino, Validação e Testes (Sem Material, ver data100)](https://www.textbook.ds100.org/ch/15/bias_intro.html)
+
+### Quarta Parte: Classificação e um Pouco de ML
+
+1. Fim Regularização
+1. KNN
+1. Logística
+1. Árvores e Florestas
+1. SVD e K-Means
 
 ## Bibliografia
 
