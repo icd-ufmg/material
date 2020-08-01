@@ -1,5 +1,5 @@
-| [Slides] | [Material] | [Calendário] | [Informes] | [Listas] | [Bibliografia] |
-|----------|------------|--------------|------------|----------|----------------|
+| [Slides] | [Material] | [Listas] | [Bibliografia] |
+|----------|------------|----------|----------------|
 - - -
 
 # DCC212: Introdução à Ciência dos Dados
@@ -7,14 +7,6 @@
 Professores: Flavio Figueiredo
 
 Departamento: Departamento de Ciência da Computação (DCC) - UFMG
-
-Aulas: 14:55-16:35.
-
-Local: Sala 211 - CAD3
-
-## Informes
-
-* Aulas iniciam no dia 04/03/2019. Verifiquem a sala no site do ICEX.
 
 ## Material
 
@@ -78,7 +70,6 @@ Local: Sala 211 - CAD3
      **Apenas em inglês. Aberto!**
 
 [Slides]: https://drive.google.com/drive/folders/1ZIwHz7U8vKAgjvHwkL_R1hZlE_4dsmah?usp=sharing
-[Calendário]: https://drive.google.com/open?id=11j-wgQ-MLn8Hj1fkYuFfkm3uinUxt1lq
 [Informes]: #informes
 [TPs]: #tps
 [Bibliografia]: #bibliografia
