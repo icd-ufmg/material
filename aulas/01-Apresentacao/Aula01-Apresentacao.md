@@ -1028,10 +1028,10 @@ plt.xticks([1, 2, 3, 4], nomes)
 
 
 
-    ([<matplotlib.axis.XTick at 0x7ff07428eb00>,
-      <matplotlib.axis.XTick at 0x7ff07428e400>,
-      <matplotlib.axis.XTick at 0x7ff07428e278>,
-      <matplotlib.axis.XTick at 0x7ff073f825c0>],
+    ([<matplotlib.axis.XTick at 0x7fdc6bb54b70>,
+      <matplotlib.axis.XTick at 0x7fdc6bb54470>,
+      <matplotlib.axis.XTick at 0x7fdc6bb542e8>,
+      <matplotlib.axis.XTick at 0x7fdc6bb15630>],
      <a list of 4 Text xticklabel objects>)
 
 
@@ -1062,7 +1062,7 @@ plt.legend()
 
 
 
-    <matplotlib.legend.Legend at 0x7ff073f05fd0>
+    <matplotlib.legend.Legend at 0x7fdc6ba9ae48>
 
 
 
