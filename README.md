@@ -10,13 +10,13 @@ Departamento: Departamento de Ciência da Computação (DCC) - UFMG
 
 ## Material
 
-### Primeira Zero: Motivação
+### Primeira Zero: Motivação (1 aula, reduzir não precisa de duas aqui)
 
 1. [Apresentação do Curso](https://github.com/icd-ufmg/material/blob/master/aulas/01-Apresentacao/Aula01-Apresentacao.ipynb)
-
-### Análise Exploratória de Dados e Revisões
-
 1. [Causa e Efeito (Tratamento, Controle)](https://github.com/icd-ufmg/material/blob/master/aulas/02-Causa-e-Efeito/README.md)
+
+### Análise Exploratória de Dados e Revisões (6 aulas, adicionar limpeza de dados)
+
 1. [Tabelas e Tipos de Dados](https://github.com/icd-ufmg/material/blob/master/aulas/03-Tabelas-e-Tipos-de-Dados/Aula03-Tabelas.ipynb)
 1. [Visualização de Dados](https://github.com/icd-ufmg/material/blob/master/aulas/04-EDA-e-Vis/Aula04-EDA-Vis.ipynb)
    * Sugiro também uma leitura do Capítulos 6.4, 6.5 e 6.6 do [Data100](https://www.textbook.ds100.org/). São novos e não foi possível adaptar para a aula. Material simples com princípios bem interessantes.
@@ -24,7 +24,7 @@ Departamento: Departamento de Ciência da Computação (DCC) - UFMG
 1. [Probabilidade](https://github.com/icd-ufmg/material/blob/master/aulas/06-Probabilidade/Aula06%20-%20Probabilidade.ipynb)
 1. [Risco e Variância de Estimador](https://github.com/icd-ufmg/material/blob/master/aulas/07-Risco/Aula07%20-%20Risco.ipynb)
 
-### Segunda Parte: Testes de Hipótese
+### Segunda Parte: Testes de Hipótese (6 aulas, reorganizar)
 
 1. [Intervalos de Confiança](https://github.com/icd-ufmg/material/blob/master/aulas/09-ICs/09%20-%20Bootstrap.ipynb)
 1. [Comparando Médias - Testes A/B](https://github.com/icd-ufmg/material/blob/master/aulas/10-AB/10%20-%20AB.ipynb)
@@ -33,7 +33,7 @@ Departamento: Departamento de Ciência da Computação (DCC) - UFMG
 1. [Fechamento Testes: Poder e Múltiplos](https://github.com/icd-ufmg/material/blob/master/aulas/12-Poder/12%20-%20Poder.ipynb)
 1. [Verossimilhança e Teste KS](TODO)
 
-### Terceira Parte: Correlação e Regressão 
+### Terceira Parte: Correlação e Regressão (6 aulas, reorganizar)
 
 1. [Correlação](https://github.com/icd-ufmg/material/blob/master/aulas/15-Correlacao/15%20-%20Correlacao.ipynb)
 1. [Regressão Linear](https://github.com/icd-ufmg/material/blob/master/aulas/16-RegressaoLinear/16%20-%20Regressao%20Linear.ipynb)
@@ -42,13 +42,14 @@ Departamento: Departamento de Ciência da Computação (DCC) - UFMG
 1. [Regressão Múltipla](https://github.com/icd-ufmg/material/blob/master/aulas/19-Multipla/19%20-%20Multipla.ipynb)
 1. [Treino, Validação e Testes (Sem Material, ver data100)](https://www.textbook.ds100.org/ch/15/bias_intro.html)
 
-### Quarta Parte: Classificação e um Pouco de ML
+### Quarta Parte: Classificação e um Pouco de ML (6 aulas, reorganizar)
 
-1. Fim Regularização
-1. KNN
-1. Logística
-1. Previsão na Prática e Florestas (se houver tempo)
-1. SVD e K-Means
+1. Regularização
+1. Logística Parte 1
+1. Logística Parte 2
+1. KNN e Previsão na Prática
+1. Aprendizado não Supervisionado (SVD e K-Means)
+1. Ética e Ciência de Dados
 
 ## Bibliografia
 
