@@ -10,12 +10,33 @@ Departamento: Departamento de Ciência da Computação (DCC) - UFMG
 
 ## Material
 
-### Primeira Zero: Motivação (1 aula, reduzir não precisa de duas aqui)
+### Parte Zero: Motivação (1 aula, reduzir não precisa de duas aqui)
+
+#### Objetivos de Aprendizado
+
+1. Motivar o curso e a carreira
+1. Falar do grande problema de ciência de dados (causa e efeito)
+
+#### Material
 
 1. [Apresentação do Curso](https://github.com/icd-ufmg/material/blob/master/aulas/01-Apresentacao/Aula01-Apresentacao.ipynb)
 1. [Causa e Efeito (Tratamento, Controle)](https://github.com/icd-ufmg/material/blob/master/aulas/02-Causa-e-Efeito/README.md)
 
-### Análise Exploratória de Dados e Revisões (6 aulas, adicionar limpeza de dados)
+### Parte Um: Análise Exploratória de Dados e Revisões (6 aulas, adicionar limpeza de dados)
+
+#### Objetivos de Aprendizado
+
+1. Aprender sobre tabelas de dados, csvs e tipos de colunas
+1. Bons príncipios de visualização
+1. Análise exploratória e limpeza e dados
+1. Tendências Centrais
+  1. Média, Mediana, Desvio Padrão etc.
+1. Revisão de Probabilidade (pré-requisito do curso)
+  1. Distribuições Discretas vs Contínuas
+  1. A Normal
+  1. Estimadores da média e sua variâncias
+
+#### Material
 
 1. [Tabelas e Tipos de Dados](https://github.com/icd-ufmg/material/blob/master/aulas/03-Tabelas-e-Tipos-de-Dados/Aula03-Tabelas.ipynb)
 1. [Visualização de Dados](https://github.com/icd-ufmg/material/blob/master/aulas/04-EDA-e-Vis/Aula04-EDA-Vis.ipynb)
