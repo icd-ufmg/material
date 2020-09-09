@@ -1,6 +1,6 @@
-for folder in */; do
+for folder in 08*/; do
   cd $folder
-  for file in `ls *.ipynb`; do
+  for file in *.ipynb; do
     jupyter nbconvert --execute --ExecutePreprocessor.enabled=True \
       --ExecutePreprocessor.timeout=600 --to notebook --inplace "$file"
     jupyter nbconvert --execute --ExecutePreprocessor.enabled=True \
