@@ -10,24 +10,28 @@ Departamento: Departamento de Ciência da Computação (DCC) - UFMG
 
 ## Material
 
-### Primeira Parte: Análise Exploratória de Dados
+### Primeira Zero: Motivação
 
 1. [Apresentação do Curso](https://github.com/icd-ufmg/material/blob/master/aulas/01-Apresentacao/Aula01-Apresentacao.ipynb)
+
+### Análise Exploratória de Dados e Revisões
+
 1. [Causa e Efeito (Tratamento, Controle)](https://github.com/icd-ufmg/material/blob/master/aulas/02-Causa-e-Efeito/README.md)
 1. [Tabelas e Tipos de Dados](https://github.com/icd-ufmg/material/blob/master/aulas/03-Tabelas-e-Tipos-de-Dados/Aula03-Tabelas.ipynb)
 1. [Visualização de Dados](https://github.com/icd-ufmg/material/blob/master/aulas/04-EDA-e-Vis/Aula04-EDA-Vis.ipynb)
    * Sugiro também uma leitura do Capítulos 6.4, 6.5 e 6.6 do [Data100](https://www.textbook.ds100.org/). São novos e não foi possível adaptar para a aula. Material simples com princípios bem interessantes.
 1. [Tendências Centrais](https://github.com/icd-ufmg/material/blob/master/aulas/05-Tendencias-Centrais/Aula05-Tendencias-Centrais.ipynb)
 1. [Probabilidade](https://github.com/icd-ufmg/material/blob/master/aulas/06-Probabilidade/Aula06%20-%20Probabilidade.ipynb)
+1. [Risco e Variância de Estimador](https://github.com/icd-ufmg/material/blob/master/aulas/07-Risco/Aula07%20-%20Risco.ipynb)
 
 ### Segunda Parte: Testes de Hipótese
 
-1. [Risco e Variância de Estimador](https://github.com/icd-ufmg/material/blob/master/aulas/07-Risco/Aula07%20-%20Risco.ipynb)
 1. [Intervalos de Confiança](https://github.com/icd-ufmg/material/blob/master/aulas/09-ICs/09%20-%20Bootstrap.ipynb)
 1. [Comparando Médias - Testes A/B](https://github.com/icd-ufmg/material/blob/master/aulas/10-AB/10%20-%20AB.ipynb)
 1. [Testes de Hipóteses](https://github.com/icd-ufmg/material/blob/master/aulas/11-Hipoteses/11%20-%20Hipoteses.ipynb)
-1. [Poder de Testes](https://github.com/icd-ufmg/material/blob/master/aulas/12-Poder/12%20-%20Poder.ipynb)
 1. [Replicação e Método Científico](https://github.com/icd-ufmg/material/blob/master/aulas/13-CausalidadeRCT/13%20-%20Causalidade.ipynb)
+1. [Fechamento Testes: Poder e Múltiplos](https://github.com/icd-ufmg/material/blob/master/aulas/12-Poder/12%20-%20Poder.ipynb)
+1. [Verossimilhança e Teste KS](TODO)
 
 ### Terceira Parte: Correlação e Regressão 
 
