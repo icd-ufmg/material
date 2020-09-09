@@ -24,6 +24,9 @@ Departamento: Departamento de Ciência da Computação (DCC) - UFMG
 
 ### Parte Um: Análise Exploratória de Dados e Revisões (6 aulas, adicionar limpeza de dados)
 
+Ao terminar esta parte do curso o discente deve saber o mínimo sobre como ler e plotar dados. Além do mais, deve ter feito
+uma revisão do seu curso de Probabilidade (Probabilidade I) ou Probabilidade e Estatística.
+
 #### Objetivos de Aprendizado
 
 1. Aprender sobre tabelas de dados, csvs e tipos de colunas
@@ -45,16 +48,49 @@ Departamento: Departamento de Ciência da Computação (DCC) - UFMG
 1. [Probabilidade](https://github.com/icd-ufmg/material/blob/master/aulas/06-Probabilidade/Aula06%20-%20Probabilidade.ipynb)
 1. [Risco e Variância de Estimador](https://github.com/icd-ufmg/material/blob/master/aulas/07-Risco/Aula07%20-%20Risco.ipynb)
 
-### Segunda Parte: Testes de Hipótese (6 aulas, reorganizar)
+### Segunda Parte: Testes de Hipótese (6 aulas)
 
+Ao terminar esta parte do curso o discente deve saber o mínimo sobre como o essencial de testes de hipóteses. Este curso
+não cobre uma diversidade de testes. O foco maior é no entendimento de conceitos como: intervalos de confiança, valores p,
+testes a/b e noções de assuntos avançados (poder e testes múltiplos). Além do mais, usamos o aracabouço de testes para
+falar de ciência no geral vs ciência de dados.
+
+#### Objetivos de Aprendizado
+
+1. Intervalos de Confiança
+1. Bootstrap
+1. Testes A/B
+1. Valores P e Testes de Pemutação
+    1. Seguindo a filosofia do Data8 e Data100 de Berkeley, não nos preocupamos muito em detalhes testes-t, wald etc.
+       O foco é no conceito via métodos computacionais.
+1. Valores P e Testes de Pemutação
+    1. Seguindo a filosofia do Data8 e Data100 de Berkeley, não nos preocupamos muito em detalhes testes-t, wald etc.
+       O foco é no conceito via métodos computacionais.
+1. Ciência vs Ciência de Dados
+
+#### Material
+
+1. [Teorema Central do Limite](TODO)
 1. [Intervalos de Confiança](https://github.com/icd-ufmg/material/blob/master/aulas/09-ICs/09%20-%20Bootstrap.ipynb)
 1. [Comparando Médias - Testes A/B](https://github.com/icd-ufmg/material/blob/master/aulas/10-AB/10%20-%20AB.ipynb)
 1. [Testes de Hipóteses](https://github.com/icd-ufmg/material/blob/master/aulas/11-Hipoteses/11%20-%20Hipoteses.ipynb)
 1. [Replicação e Método Científico](https://github.com/icd-ufmg/material/blob/master/aulas/13-CausalidadeRCT/13%20-%20Causalidade.ipynb)
 1. [Fechamento Testes: Poder e Múltiplos](https://github.com/icd-ufmg/material/blob/master/aulas/12-Poder/12%20-%20Poder.ipynb)
-1. [Verossimilhança e Teste KS](TODO)
 
 ### Terceira Parte: Correlação e Regressão (6 aulas, reorganizar)
+
+Toda esta parte do curso foca apenas em Regressão. Embora pareça ser muitas aulas para o assunto, a ideia é seguir a filosofia do
+curso de aprendizado de máquina do Andre Ng (Coursera). Regressão é usado não apenas como conceito estatístico, mas sim como uma forma
+de apresentar o discente ao aprendizado de máquina.
+
+#### Objetivos de Aprendizado
+
+1. Correlação de Dados
+1. Regressão Linear
+1. Mínimos Quadrados
+1. Verossimilhança
+
+#### Material
 
 1. [Correlação](https://github.com/icd-ufmg/material/blob/master/aulas/15-Correlacao/15%20-%20Correlacao.ipynb)
 1. [Regressão Linear](https://github.com/icd-ufmg/material/blob/master/aulas/16-RegressaoLinear/16%20-%20Regressao%20Linear.ipynb)
