@@ -30,11 +30,11 @@ Departamento: Departamento de Ciência da Computação (DCC) - UFMG
 1. Bons príncipios de visualização
 1. Análise exploratória e limpeza e dados
 1. Tendências Centrais
-  1. Média, Mediana, Desvio Padrão etc.
+    1. Média, Mediana, Desvio Padrão etc.
 1. Revisão de Probabilidade (pré-requisito do curso)
-  1. Distribuições Discretas vs Contínuas
-  1. A Normal
-  1. Estimadores da média e sua variâncias
+    1. Distribuições Discretas vs Contínuas
+    1. A Normal
+    1. Estimadores da média e sua variâncias
 
 #### Material
 
